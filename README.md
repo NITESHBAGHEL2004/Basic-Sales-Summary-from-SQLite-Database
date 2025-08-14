@@ -1,4 +1,4 @@
-# Basic-Sales-Summary-from-SQLite-Database
+
 
 # 📊 Task 7 - Basic Sales Summary from SQLite Database
 
@@ -11,8 +11,10 @@ This project connects Python to a SQLite database, fetches basic sales informati
 - Python 3.x
 - SQLite (sqlite3)
 - Pandas
-- Matplotlib
-
+- Matplotlil
+  
+#install library 
+ - pip install matplotlib
 ---
 
 ## 📂 Files in Repository
